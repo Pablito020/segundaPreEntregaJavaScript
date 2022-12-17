@@ -209,4 +209,4 @@ while (cargarProducto) {
 
     /*Total del carrito + iva*/
 
-    alert("Productos Seleccionados:" + contenido_productos + "Total a Pagar: $" + suma);
+    alert("Productos Seleccionados:\n\n" + contenido_productos + "\n\nTotal a Pagar: $" + suma);
